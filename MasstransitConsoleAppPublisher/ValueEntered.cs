@@ -4,8 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MasstransitConsoleAppPublisher
-{
+namespace EventContract
+{ 
     public interface ValueEntered
     {
         string Value { get; }

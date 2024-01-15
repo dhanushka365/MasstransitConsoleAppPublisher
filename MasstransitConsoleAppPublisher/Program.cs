@@ -1,4 +1,5 @@
-﻿using MassTransit;
+﻿using EventContract;
+using MassTransit;
 
 namespace MasstransitConsoleAppPublisher
 {
